@@ -82,7 +82,7 @@
       "visible": true,
       "transform": {
         "x": 135,
-        "y": 154.5,
+        "y": 126.5,
         "z": 0,
         "rotateX": 0,
         "rotateY": 0,
@@ -108,7 +108,7 @@
         "wrapper": {
           "width": "733px",
           "height": "1024px",
-          "transform": "translate3d(135px, 154.5px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(-4deg) scale(0.52)",
+          "transform": "translate3d(135px, 126.5px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(-4deg) scale(0.52)",
           "opacity": 1,
           "filter": "none",
           "boxShadow": "0px 24px 44px -18px rgba(18, 22, 26, 0.28)"
@@ -139,10 +139,10 @@
       "visible": true,
       "transform": {
         "x": 132.5,
-        "y": 156,
+        "y": 122,
         "z": 0,
         "rotateX": 0,
-        "rotateY": -4.5,
+        "rotateY": -7,
         "rotateZ": -4,
         "scale": 0.35,
         "opacity": 1
@@ -165,7 +165,7 @@
         "wrapper": {
           "width": "1024px",
           "height": "1536px",
-          "transform": "translate3d(132.5px, 156px, 0px) rotateX(0deg) rotateY(-4.5deg) rotateZ(-4deg) scale(0.35)",
+          "transform": "translate3d(132.5px, 122px, 0px) rotateX(0deg) rotateY(-7deg) rotateZ(-4deg) scale(0.35)",
           "opacity": 1,
           "filter": "none",
           "boxShadow": "0px 24px 44px -18px rgba(18, 22, 26, 0.28)"
@@ -196,7 +196,7 @@
       "visible": true,
       "transform": {
         "x": 376.5,
-        "y": 741,
+        "y": 711,
         "z": 0,
         "rotateX": 0,
         "rotateY": -11,
@@ -222,7 +222,7 @@
         "wrapper": {
           "width": "735.5px",
           "height": "1024px",
-          "transform": "translate3d(376.5px, 741px, 0px) rotateX(0deg) rotateY(-11deg) rotateZ(1.5deg) scale(0.52)",
+          "transform": "translate3d(376.5px, 711px, 0px) rotateX(0deg) rotateY(-11deg) rotateZ(1.5deg) scale(0.52)",
           "opacity": 1,
           "filter": "none",
           "boxShadow": "0px 24px 44px -18px rgba(18, 22, 26, 0.28)"
@@ -253,7 +253,7 @@
       "visible": true,
       "transform": {
         "x": -25,
-        "y": 731,
+        "y": 698.5,
         "z": 0,
         "rotateX": 0,
         "rotateY": 14.5,
@@ -279,7 +279,7 @@
         "wrapper": {
           "width": "764.5px",
           "height": "1024px",
-          "transform": "translate3d(-25px, 731px, 0px) rotateX(0deg) rotateY(14.5deg) rotateZ(2deg) scale(0.55)",
+          "transform": "translate3d(-25px, 698.5px, 0px) rotateX(0deg) rotateY(14.5deg) rotateZ(2deg) scale(0.55)",
           "opacity": 1,
           "filter": "none",
           "boxShadow": "0px 24px 44px -18px rgba(18, 22, 26, 0.28)"
