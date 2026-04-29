@@ -339,19 +339,23 @@ export default function Home() {
     }
 
     const image = await readImage(file);
-    updateSelected((layer) => ({
-      ...layer,
-      name: file.name.replace(/\.[^.]+$/, ""),
-      src: image.src,
-      sourceWidth: image.width,
-      sourceHeight: image.height,
-      crop: {
-        x: 0,
-        y: 0,
-        width: image.width,
-        height: image.height
-      }
-    }));
+    updateSelected((layer) => {
+      const cropX = clamp(layer.crop.x, 0, image.width - 1);
+      const cropY = clamp(layer.crop.y, 0, image.height - 1);
+
+      return {
+        ...layer,
+        src: image.src,
+        sourceWidth: image.width,
+        sourceHeight: image.height,
+        crop: {
+          x: cropX,
+          y: cropY,
+          width: clamp(layer.crop.width, 1, image.width - cropX),
+          height: clamp(layer.crop.height, 1, image.height - cropY)
+        }
+      };
+    });
   }
 
   function saveLayout() {

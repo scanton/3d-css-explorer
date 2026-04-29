@@ -1,0 +1,301 @@
+{
+  "canvas": {
+    "width": 768,
+    "height": 1376,
+    "perspective": 1600,
+    "backgroundColor": "#f7f8f8",
+    "css": {
+      "width": "768px",
+      "height": "1376px",
+      "perspective": "1600px",
+      "backgroundColor": "#f7f8f8"
+    }
+  },
+  "layers": [
+    {
+      "id": "mokfxgkq-awbkh5",
+      "name": "Champagne Linen 1",
+      "role": "background",
+      "order": 0,
+      "source": {
+        "width": 3072,
+        "height": 5504,
+        "replaceableImageSlot": false
+      },
+      "visible": true,
+      "transform": {
+        "x": 0,
+        "y": 0,
+        "z": -80,
+        "rotateX": 0,
+        "rotateY": 0,
+        "rotateZ": 0,
+        "scale": 0.25,
+        "opacity": 1
+      },
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "width": 3072,
+        "height": 5504
+      },
+      "shadow": {
+        "enabled": false,
+        "x": 0,
+        "y": 24,
+        "blur": 44,
+        "spread": -18,
+        "opacity": 0.28
+      },
+      "css": {
+        "wrapper": {
+          "width": "3072px",
+          "height": "5504px",
+          "transform": "translate3d(0px, 0px, -80px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale(0.25)",
+          "opacity": 1,
+          "filter": "none",
+          "boxShadow": "none"
+        },
+        "image": {
+          "width": "3072px",
+          "height": "5504px",
+          "transform": "translate(0px, 0px)"
+        },
+        "crop": {
+          "x": 0,
+          "y": 0,
+          "width": 3072,
+          "height": 5504
+        }
+      }
+    },
+    {
+      "id": "mokf2nql-2qr7i5",
+      "name": "test-3-inside",
+      "role": "panel",
+      "order": 1,
+      "source": {
+        "width": 1536,
+        "height": 1024,
+        "replaceableImageSlot": true
+      },
+      "visible": true,
+      "transform": {
+        "x": 135,
+        "y": 154.5,
+        "z": 0,
+        "rotateX": 0,
+        "rotateY": 0,
+        "rotateZ": -4,
+        "scale": 0.52,
+        "opacity": 1
+      },
+      "crop": {
+        "x": 785,
+        "y": 0,
+        "width": 733,
+        "height": 1024
+      },
+      "shadow": {
+        "enabled": true,
+        "x": 0,
+        "y": 24,
+        "blur": 44,
+        "spread": -18,
+        "opacity": 0.28
+      },
+      "css": {
+        "wrapper": {
+          "width": "733px",
+          "height": "1024px",
+          "transform": "translate3d(135px, 154.5px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(-4deg) scale(0.52)",
+          "opacity": 1,
+          "filter": "none",
+          "boxShadow": "0px 24px 44px -18px rgba(18, 22, 26, 0.28)"
+        },
+        "image": {
+          "width": "1536px",
+          "height": "1024px",
+          "transform": "translate(-785px, 0px)"
+        },
+        "crop": {
+          "x": 785,
+          "y": 0,
+          "width": 733,
+          "height": 1024
+        }
+      }
+    },
+    {
+      "id": "mokf6gvr-ii1jom",
+      "name": "test-3-cover",
+      "role": "panel",
+      "order": 2,
+      "source": {
+        "width": 1024,
+        "height": 1536,
+        "replaceableImageSlot": true
+      },
+      "visible": true,
+      "transform": {
+        "x": 132.5,
+        "y": 156,
+        "z": 0,
+        "rotateX": 0,
+        "rotateY": -4.5,
+        "rotateZ": -4,
+        "scale": 0.35,
+        "opacity": 1
+      },
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "width": 1024,
+        "height": 1536
+      },
+      "shadow": {
+        "enabled": true,
+        "x": 0,
+        "y": 24,
+        "blur": 44,
+        "spread": -18,
+        "opacity": 0.28
+      },
+      "css": {
+        "wrapper": {
+          "width": "1024px",
+          "height": "1536px",
+          "transform": "translate3d(132.5px, 156px, 0px) rotateX(0deg) rotateY(-4.5deg) rotateZ(-4deg) scale(0.35)",
+          "opacity": 1,
+          "filter": "none",
+          "boxShadow": "0px 24px 44px -18px rgba(18, 22, 26, 0.28)"
+        },
+        "image": {
+          "width": "1024px",
+          "height": "1536px",
+          "transform": "translate(0px, 0px)"
+        },
+        "crop": {
+          "x": 0,
+          "y": 0,
+          "width": 1024,
+          "height": 1536
+        }
+      }
+    },
+    {
+      "id": "mokf4vg0-sq9r4q",
+      "name": "test-3-inside copy",
+      "role": "panel",
+      "order": 3,
+      "source": {
+        "width": 1536,
+        "height": 1024,
+        "replaceableImageSlot": true
+      },
+      "visible": true,
+      "transform": {
+        "x": 376.5,
+        "y": 741,
+        "z": 0,
+        "rotateX": 0,
+        "rotateY": -11,
+        "rotateZ": 1.5,
+        "scale": 0.52,
+        "opacity": 1
+      },
+      "crop": {
+        "x": 753,
+        "y": 0,
+        "width": 735.5,
+        "height": 1024
+      },
+      "shadow": {
+        "enabled": true,
+        "x": 0,
+        "y": 24,
+        "blur": 44,
+        "spread": -18,
+        "opacity": 0.28
+      },
+      "css": {
+        "wrapper": {
+          "width": "735.5px",
+          "height": "1024px",
+          "transform": "translate3d(376.5px, 741px, 0px) rotateX(0deg) rotateY(-11deg) rotateZ(1.5deg) scale(0.52)",
+          "opacity": 1,
+          "filter": "none",
+          "boxShadow": "0px 24px 44px -18px rgba(18, 22, 26, 0.28)"
+        },
+        "image": {
+          "width": "1536px",
+          "height": "1024px",
+          "transform": "translate(-753px, 0px)"
+        },
+        "crop": {
+          "x": 753,
+          "y": 0,
+          "width": 735.5,
+          "height": 1024
+        }
+      }
+    },
+    {
+      "id": "mokf4wdd-tonpwm",
+      "name": "test-3-inside copy copy",
+      "role": "panel",
+      "order": 4,
+      "source": {
+        "width": 1536,
+        "height": 1024,
+        "replaceableImageSlot": true
+      },
+      "visible": true,
+      "transform": {
+        "x": -25,
+        "y": 731,
+        "z": 0,
+        "rotateX": 0,
+        "rotateY": 14.5,
+        "rotateZ": 2,
+        "scale": 0.55,
+        "opacity": 1
+      },
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "width": 764.5,
+        "height": 1024
+      },
+      "shadow": {
+        "enabled": true,
+        "x": 0,
+        "y": 24,
+        "blur": 44,
+        "spread": -18,
+        "opacity": 0.28
+      },
+      "css": {
+        "wrapper": {
+          "width": "764.5px",
+          "height": "1024px",
+          "transform": "translate3d(-25px, 731px, 0px) rotateX(0deg) rotateY(14.5deg) rotateZ(2deg) scale(0.55)",
+          "opacity": 1,
+          "filter": "none",
+          "boxShadow": "0px 24px 44px -18px rgba(18, 22, 26, 0.28)"
+        },
+        "image": {
+          "width": "1536px",
+          "height": "1024px",
+          "transform": "translate(0px, 0px)"
+        },
+        "crop": {
+          "x": 0,
+          "y": 0,
+          "width": 764.5,
+          "height": 1024
+        }
+      }
+    }
+  ]
+}
