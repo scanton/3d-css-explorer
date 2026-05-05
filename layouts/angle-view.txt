@@ -13,13 +13,13 @@
   },
   "layers": [
     {
-      "id": "moizdee2-1fqqw7",
-      "name": "6e4da4dc-e867-415d-8b68-8481dd6144d8",
+      "id": "mostsw01-pfznbs",
+      "name": "grid-template",
       "role": "background",
       "order": 0,
       "source": {
-        "width": 941,
-        "height": 1672,
+        "width": 571,
+        "height": 1024,
         "replaceableImageSlot": false
       },
       "visible": true,
@@ -30,14 +30,14 @@
         "rotateX": 0,
         "rotateY": 0,
         "rotateZ": 0,
-        "scale": 0.82,
+        "scale": 1.35,
         "opacity": 1
       },
       "crop": {
         "x": 0,
         "y": 0,
-        "width": 941,
-        "height": 1672
+        "width": 571,
+        "height": 1024
       },
       "shadow": {
         "enabled": false,
@@ -49,23 +49,23 @@
       },
       "css": {
         "wrapper": {
-          "width": "941px",
-          "height": "1672px",
-          "transform": "translate3d(0px, 0px, -80px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale(0.82)",
+          "width": "571px",
+          "height": "1024px",
+          "transform": "translate3d(0px, 0px, -80px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale(1.35)",
           "opacity": 1,
           "filter": "none",
           "boxShadow": "none"
         },
         "image": {
-          "width": "941px",
-          "height": "1672px",
+          "width": "571px",
+          "height": "1024px",
           "transform": "translate(0px, 0px)"
         },
         "crop": {
           "x": 0,
           "y": 0,
-          "width": 941,
-          "height": 1672
+          "width": 571,
+          "height": 1024
         }
       }
     },
@@ -254,7 +254,7 @@
       "transform": {
         "x": 379,
         "y": 739,
-        "z": 0,
+        "z": -9,
         "rotateX": 41,
         "rotateY": -9.5,
         "rotateZ": 0,
@@ -279,7 +279,7 @@
         "wrapper": {
           "width": "773.5px",
           "height": "1024px",
-          "transform": "translate3d(379px, 739px, 0px) rotateX(41deg) rotateY(-9.5deg) rotateZ(0deg) scale(0.47)",
+          "transform": "translate3d(379px, 739px, -9px) rotateX(41deg) rotateY(-9.5deg) rotateZ(0deg) scale(0.47)",
           "opacity": 1,
           "filter": "none",
           "boxShadow": "0px 24px 44px -18px rgba(18, 22, 26, 0.28)"
