@@ -13,13 +13,13 @@
   },
   "layers": [
     {
-      "id": "mosv8n3t-yy4iu4",
-      "name": "table-background",
+      "id": "mot0hm3b-x58snl",
+      "name": "Warm Grey 1",
       "role": "background",
       "order": 0,
       "source": {
-        "width": 941,
-        "height": 1672,
+        "width": 3072,
+        "height": 5504,
         "replaceableImageSlot": false
       },
       "visible": true,
@@ -30,14 +30,14 @@
         "rotateX": 0,
         "rotateY": 0,
         "rotateZ": 0,
-        "scale": 0.82,
+        "scale": 0.25,
         "opacity": 1
       },
       "crop": {
         "x": 0,
         "y": 0,
-        "width": 941,
-        "height": 1672
+        "width": 3072,
+        "height": 5504
       },
       "shadow": {
         "enabled": false,
@@ -49,23 +49,23 @@
       },
       "css": {
         "wrapper": {
-          "width": "941px",
-          "height": "1672px",
-          "transform": "translate3d(0px, 0px, -80px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale(0.82)",
+          "width": "3072px",
+          "height": "5504px",
+          "transform": "translate3d(0px, 0px, -80px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale(0.25)",
           "opacity": 1,
           "filter": "none",
           "boxShadow": "none"
         },
         "image": {
-          "width": "941px",
-          "height": "1672px",
+          "width": "3072px",
+          "height": "5504px",
           "transform": "translate(0px, 0px)"
         },
         "crop": {
           "x": 0,
           "y": 0,
-          "width": 941,
-          "height": 1672
+          "width": 3072,
+          "height": 5504
         }
       }
     },
@@ -196,7 +196,7 @@
       "visible": true,
       "transform": {
         "x": 376.5,
-        "y": 711,
+        "y": 677,
         "z": -3,
         "rotateX": 0,
         "rotateY": -11,
@@ -222,7 +222,7 @@
         "wrapper": {
           "width": "735.5px",
           "height": "1024px",
-          "transform": "translate3d(376.5px, 711px, -3px) rotateX(0deg) rotateY(-11deg) rotateZ(1.5deg) scale(0.52)",
+          "transform": "translate3d(376.5px, 677px, -3px) rotateX(0deg) rotateY(-11deg) rotateZ(1.5deg) scale(0.52)",
           "opacity": 1,
           "filter": "none",
           "boxShadow": "0px 24px 44px -18px rgba(18, 22, 26, 0.28)"
@@ -253,7 +253,7 @@
       "visible": true,
       "transform": {
         "x": -25,
-        "y": 698.5,
+        "y": 662.5,
         "z": 0,
         "rotateX": 0,
         "rotateY": 14.5,
@@ -279,7 +279,7 @@
         "wrapper": {
           "width": "764.5px",
           "height": "1024px",
-          "transform": "translate3d(-25px, 698.5px, 0px) rotateX(0deg) rotateY(14.5deg) rotateZ(2deg) scale(0.55)",
+          "transform": "translate3d(-25px, 662.5px, 0px) rotateX(0deg) rotateY(14.5deg) rotateZ(2deg) scale(0.55)",
           "opacity": 1,
           "filter": "none",
           "boxShadow": "0px 24px 44px -18px rgba(18, 22, 26, 0.28)"
