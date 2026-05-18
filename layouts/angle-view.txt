@@ -13,13 +13,13 @@
   },
   "layers": [
     {
-      "id": "mostsw01-pfznbs",
-      "name": "grid-template",
+      "id": "mozsllfd-iu0mk0",
+      "name": "Bleached Linen 2",
       "role": "background",
       "order": 0,
       "source": {
-        "width": 571,
-        "height": 1024,
+        "width": 768,
+        "height": 1376,
         "replaceableImageSlot": false
       },
       "visible": true,
@@ -30,14 +30,14 @@
         "rotateX": 0,
         "rotateY": 0,
         "rotateZ": 0,
-        "scale": 1.35,
+        "scale": 1,
         "opacity": 1
       },
       "crop": {
         "x": 0,
         "y": 0,
-        "width": 571,
-        "height": 1024
+        "width": 768,
+        "height": 1376
       },
       "shadow": {
         "enabled": false,
@@ -49,23 +49,137 @@
       },
       "css": {
         "wrapper": {
-          "width": "571px",
-          "height": "1024px",
-          "transform": "translate3d(0px, 0px, -80px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale(1.35)",
+          "width": "768px",
+          "height": "1376px",
+          "transform": "translate3d(0px, 0px, -80px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale(1)",
           "opacity": 1,
           "filter": "none",
           "boxShadow": "none"
         },
         "image": {
-          "width": "571px",
-          "height": "1024px",
+          "width": "768px",
+          "height": "1376px",
           "transform": "translate(0px, 0px)"
         },
         "crop": {
           "x": 0,
           "y": 0,
-          "width": 571,
-          "height": 1024
+          "width": 768,
+          "height": 1376
+        }
+      }
+    },
+    {
+      "id": "mozscs4s-jln408",
+      "name": "angle-upright-shadow",
+      "role": "panel",
+      "order": 1,
+      "source": {
+        "width": 371,
+        "height": 112,
+        "replaceableImageSlot": true
+      },
+      "visible": true,
+      "transform": {
+        "x": 219.5,
+        "y": 612,
+        "z": 0,
+        "rotateX": 0,
+        "rotateY": 0,
+        "rotateZ": 0,
+        "scale": 1,
+        "opacity": 1
+      },
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "width": 371,
+        "height": 112
+      },
+      "shadow": {
+        "enabled": false,
+        "x": 0,
+        "y": 24,
+        "blur": 44,
+        "spread": -18,
+        "opacity": 0.28
+      },
+      "css": {
+        "wrapper": {
+          "width": "371px",
+          "height": "112px",
+          "transform": "translate3d(219.5px, 612px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale(1)",
+          "opacity": 1,
+          "filter": "none",
+          "boxShadow": "none"
+        },
+        "image": {
+          "width": "371px",
+          "height": "112px",
+          "transform": "translate(0px, 0px)"
+        },
+        "crop": {
+          "x": 0,
+          "y": 0,
+          "width": 371,
+          "height": 112
+        }
+      }
+    },
+    {
+      "id": "mozsgsdd-n5porw",
+      "name": "angle-open-card-shadow",
+      "role": "panel",
+      "order": 2,
+      "source": {
+        "width": 693,
+        "height": 438,
+        "replaceableImageSlot": true
+      },
+      "visible": true,
+      "transform": {
+        "x": -40.5,
+        "y": 696,
+        "z": 0,
+        "rotateX": 0,
+        "rotateY": 0,
+        "rotateZ": 0,
+        "scale": 1.28,
+        "opacity": 1
+      },
+      "crop": {
+        "x": 0,
+        "y": 0,
+        "width": 693,
+        "height": 438
+      },
+      "shadow": {
+        "enabled": false,
+        "x": 0,
+        "y": 24,
+        "blur": 44,
+        "spread": -18,
+        "opacity": 0.28
+      },
+      "css": {
+        "wrapper": {
+          "width": "693px",
+          "height": "438px",
+          "transform": "translate3d(-40.5px, 696px, 0px) rotateX(0deg) rotateY(0deg) rotateZ(0deg) scale(1.28)",
+          "opacity": 1,
+          "filter": "none",
+          "boxShadow": "none"
+        },
+        "image": {
+          "width": "693px",
+          "height": "438px",
+          "transform": "translate(0px, 0px)"
+        },
+        "crop": {
+          "x": 0,
+          "y": 0,
+          "width": 693,
+          "height": 438
         }
       }
     },
@@ -73,7 +187,7 @@
       "id": "moiy5aau-mvg56j",
       "name": "test-2-inside",
       "role": "panel",
-      "order": 1,
+      "order": 3,
       "source": {
         "width": 1536,
         "height": 1024,
@@ -130,7 +244,7 @@
       "id": "moiy2xmk-rretok",
       "name": "test-2-cover",
       "role": "panel",
-      "order": 2,
+      "order": 4,
       "source": {
         "width": 1024,
         "height": 1536,
@@ -154,7 +268,7 @@
         "height": 1536
       },
       "shadow": {
-        "enabled": true,
+        "enabled": false,
         "x": 0,
         "y": 24,
         "blur": 44,
@@ -168,7 +282,7 @@
           "transform": "translate3d(-75.5px, -353px, -1400px) rotateX(-23deg) rotateY(-8.5deg) rotateZ(1deg) scale(0.7)",
           "opacity": 1,
           "filter": "none",
-          "boxShadow": "0px 24px 44px -18px rgba(18, 22, 26, 0.28)"
+          "boxShadow": "none"
         },
         "image": {
           "width": "1024px",
@@ -187,7 +301,7 @@
       "id": "moiyc9or-wea97z",
       "name": "test-2-inside copy copy",
       "role": "panel",
-      "order": 3,
+      "order": 5,
       "source": {
         "width": 1536,
         "height": 1024,
@@ -211,7 +325,7 @@
         "height": 1024
       },
       "shadow": {
-        "enabled": true,
+        "enabled": false,
         "x": 0,
         "y": 24,
         "blur": 44,
@@ -225,7 +339,7 @@
           "transform": "translate3d(26px, 700.5px, 0px) rotateX(41deg) rotateY(10deg) rotateZ(0deg) scale(0.48)",
           "opacity": 1,
           "filter": "none",
-          "boxShadow": "0px 24px 44px -18px rgba(18, 22, 26, 0.28)"
+          "boxShadow": "none"
         },
         "image": {
           "width": "1536px",
@@ -244,7 +358,7 @@
       "id": "moiyetlx-xhywdn",
       "name": "test-2-inside copy copy copy",
       "role": "panel",
-      "order": 4,
+      "order": 6,
       "source": {
         "width": 1536,
         "height": 1024,
@@ -268,7 +382,7 @@
         "height": 1024
       },
       "shadow": {
-        "enabled": true,
+        "enabled": false,
         "x": 0,
         "y": 24,
         "blur": 44,
@@ -282,7 +396,7 @@
           "transform": "translate3d(379px, 739px, -9px) rotateX(41deg) rotateY(-9.5deg) rotateZ(0deg) scale(0.47)",
           "opacity": 1,
           "filter": "none",
-          "boxShadow": "0px 24px 44px -18px rgba(18, 22, 26, 0.28)"
+          "boxShadow": "none"
         },
         "image": {
           "width": "1536px",
